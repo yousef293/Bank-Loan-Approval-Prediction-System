@@ -1,0 +1,1001 @@
+ApplicantAge,MonthlyIncome,EmploymentStatus,CreditScore,LoanAmount,LoanTerm,DebtToIncomeRatio,NumberOfDependents,HasExistingLoans,EducationLevel,MaritalStatus,ResidenceType,YearsAtCurrentResidence,ApprovalStatus
+36,14530,Employed,770,16307,48,20.74,1,0,Bachelor,Single,Own,9,1
+43,7821,Employed,825,16088,24,13.35,0,0,Bachelor,Single,Rent,7,1
+45,12332,Employed,825,26569,36,13.52,2,0,PhD,Married,Own,7,1
+32,6247,Employed,798,23208,48,24.95,1,0,Master,Single,Rent,4,1
+28,14504,Employed,750,15611,36,23.42,1,0,Bachelor,Married,Own,5,1
+31,6039,Employed,717,12087,24,20.33,2,1,Bachelor,Married,Own,5,1
+51,13971,Employed,717,23122,12,23.54,2,0,Bachelor,Married,Rent,12,1
+53,6703,Employed,743,8769,36,12.84,2,0,Bachelor,Married,Rent,6,1
+45,7933,Employed,727,16716,48,24.7,2,0,Master,Single,Own,4,1
+48,7273,Employed,825,17332,48,22.84,0,0,Master,Single,Own,11,1
+42,11017,Employed,723,16844,48,28.9,0,0,Bachelor,Single,Own,12,1
+29,12709,Employed,791,28126,48,10.28,1,1,Bachelor,Married,Own,9,1
+38,12840,Employed,844,14142,24,26.28,0,0,Bachelor,Single,Own,5,1
+37,10615,Employed,842,23482,36,25.52,1,0,Master,Married,Rent,10,1
+53,10639,Employed,795,7722,48,23.47,2,0,Bachelor,Single,Own,13,1
+28,11390,Employed,714,7354,48,23.42,1,0,Master,Married,Own,8,1
+26,9845,Employed,716,14755,36,19.96,1,0,Bachelor,Single,Rent,7,1
+32,8815,Employed,791,23332,24,10.89,1,0,Bachelor,Married,Own,3,1
+34,10683,Employed,843,27719,48,28.46,1,0,Master,Married,Rent,9,1
+48,11207,Employed,744,10231,12,13.82,0,0,Master,Single,Rent,5,1
+53,12730,Employed,739,6794,48,29.77,2,0,Bachelor,Married,Own,4,1
+42,14754,Employed,781,21995,12,24.25,2,1,PhD,Married,Rent,7,1
+48,6328,Employed,781,22607,36,14.68,1,0,PhD,Married,Own,10,1
+54,8640,Employed,738,15090,48,13.2,1,1,Bachelor,Single,Own,5,1
+36,9226,Employed,820,8750,48,16.49,0,0,Master,Married,Own,10,1
+53,7482,Employed,796,8989,24,22.1,0,0,Master,Married,Rent,11,1
+35,12409,Employed,804,23090,36,26.8,0,0,Master,Married,Own,12,1
+46,8231,Employed,722,12556,12,22.2,1,0,Master,Married,Rent,7,1
+41,9539,Employed,766,8523,12,12.26,1,0,Bachelor,Married,Rent,13,1
+31,8956,Employed,760,29430,48,12.17,0,1,Master,Married,Own,12,1
+38,10844,Employed,803,16168,24,18.11,1,0,Bachelor,Married,Rent,6,1
+30,12589,Employed,803,24385,36,17.54,0,0,Master,Married,Own,5,1
+48,14933,Employed,760,17856,24,28.09,2,0,Bachelor,Single,Own,5,1
+43,6225,Employed,725,29039,36,12.01,0,0,Bachelor,Married,Own,7,1
+35,11234,Employed,840,14296,12,11.55,2,0,Bachelor,Single,Own,13,1
+32,13298,Employed,816,19075,48,27.84,1,0,Bachelor,Single,Rent,3,1
+25,6981,Employed,830,25767,36,24.58,2,0,Bachelor,Married,Own,4,1
+46,8768,Employed,798,17848,24,24.47,1,0,Bachelor,Married,Rent,9,1
+28,10205,Employed,737,22684,36,29.34,0,1,Master,Married,Own,9,1
+42,9828,Employed,826,14902,48,15.08,1,0,Bachelor,Single,Own,3,1
+26,14509,Employed,751,7263,36,26.87,1,0,Bachelor,Single,Rent,13,1
+29,8637,Employed,821,28786,12,23.55,1,0,Bachelor,Married,Rent,8,1
+51,12242,Employed,747,9393,36,29.56,2,1,Bachelor,Single,Rent,9,1
+28,11971,Employed,836,18616,12,15.88,2,0,Master,Single,Rent,11,1
+25,7210,Employed,783,26660,24,13.08,1,0,Bachelor,Single,Rent,9,1
+49,13127,Employed,750,21791,12,29.7,2,1,Bachelor,Married,Own,10,1
+42,14596,Employed,785,26625,12,10.08,2,0,Bachelor,Married,Rent,14,1
+31,13843,Employed,842,29092,12,21.51,2,1,PhD,Married,Own,6,1
+27,7697,Employed,827,14279,24,17.46,0,0,Bachelor,Married,Own,14,1
+45,12586,Employed,709,26612,48,25.16,1,0,Master,Single,Own,12,1
+39,10774,Employed,788,23380,12,13.51,0,0,Bachelor,Single,Rent,7,1
+31,12012,Employed,716,29049,48,17.23,1,0,Bachelor,Single,Own,13,1
+31,11265,Employed,727,24621,24,23.4,0,0,Bachelor,Single,Rent,14,1
+25,14606,Employed,795,26967,48,24.56,1,1,Bachelor,Single,Own,5,1
+46,11683,Employed,821,6507,12,19.53,2,1,Master,Single,Own,14,1
+42,12720,Employed,802,7557,36,14.36,0,1,Bachelor,Married,Own,6,1
+49,13613,Employed,833,8638,36,16.84,0,0,Master,Single,Rent,9,1
+41,11358,Employed,706,29502,36,17.62,2,0,Bachelor,Single,Rent,4,1
+33,12699,Employed,741,5233,12,13.07,2,1,Bachelor,Married,Rent,14,1
+47,11651,Employed,816,29188,24,22.95,2,1,Bachelor,Single,Own,8,1
+25,9738,Employed,747,28385,48,28.95,2,0,Master,Single,Rent,9,1
+50,9785,Employed,797,9189,48,20.0,2,1,Master,Single,Own,12,1
+46,7968,Employed,766,23024,12,27.72,1,1,Bachelor,Single,Own,12,1
+34,13253,Employed,730,14542,12,28.05,0,1,Master,Married,Own,14,1
+40,10596,Employed,814,14914,24,22.38,1,0,PhD,Single,Own,13,1
+44,12086,Employed,789,25637,12,19.38,0,0,PhD,Married,Rent,8,1
+39,12606,Employed,838,13425,12,10.2,1,0,Master,Married,Rent,11,1
+36,7497,Employed,823,20410,24,16.37,0,0,Bachelor,Married,Rent,9,1
+34,6510,Employed,811,6066,36,11.02,2,0,Bachelor,Single,Own,11,1
+48,10938,Employed,754,24527,12,21.63,0,0,Bachelor,Married,Own,4,1
+46,7880,Employed,829,26911,12,24.97,0,0,Bachelor,Married,Own,12,1
+28,13985,Employed,823,25618,48,14.67,2,0,Bachelor,Married,Own,9,1
+30,7294,Employed,794,6348,24,24.27,2,0,Bachelor,Single,Rent,11,1
+35,9020,Employed,729,17493,48,17.02,0,0,Bachelor,Married,Own,11,1
+39,7059,Employed,740,7653,36,12.48,2,0,Bachelor,Single,Own,13,1
+40,13303,Employed,763,6545,48,15.82,0,0,Bachelor,Single,Own,11,1
+39,6003,Employed,783,12168,24,14.29,2,1,PhD,Single,Own,5,1
+37,7270,Employed,822,11764,36,28.61,0,0,Bachelor,Married,Own,13,1
+40,14774,Employed,794,28014,48,26.93,0,0,Bachelor,Single,Own,3,1
+29,14765,Employed,725,9787,36,19.66,1,0,Bachelor,Single,Own,6,1
+45,6200,Employed,799,26048,36,21.22,2,1,Bachelor,Single,Own,5,1
+39,14642,Employed,706,24712,24,23.91,0,1,PhD,Married,Own,13,1
+27,10302,Employed,716,5009,36,15.19,1,0,Bachelor,Single,Own,9,1
+44,10318,Employed,844,21342,24,14.9,2,0,Bachelor,Single,Own,11,1
+45,11901,Employed,748,13131,24,19.74,1,0,Bachelor,Married,Own,3,1
+43,12928,Employed,790,15532,24,15.83,2,0,PhD,Married,Rent,4,1
+45,13003,Employed,844,13712,12,29.9,1,0,Bachelor,Single,Own,3,1
+53,14548,Employed,820,19164,12,23.71,1,0,Bachelor,Single,Own,8,1
+43,14525,Employed,789,6009,36,18.91,2,1,Master,Married,Own,6,1
+28,6187,Employed,802,18205,36,24.16,0,0,Master,Married,Own,14,1
+30,12427,Employed,808,16242,36,13.51,0,1,Bachelor,Single,Own,3,1
+40,8020,Employed,732,26987,12,13.04,2,1,Bachelor,Married,Own,11,1
+51,9471,Employed,844,8871,24,17.19,2,1,Bachelor,Single,Rent,5,1
+35,12969,Employed,753,21758,12,12.33,1,0,Bachelor,Married,Rent,14,1
+41,8186,Employed,806,20174,24,10.27,1,1,PhD,Married,Own,8,1
+45,7610,Employed,728,22175,36,16.29,2,0,Bachelor,Single,Own,14,1
+53,13060,Employed,786,19761,36,15.4,1,0,Bachelor,Married,Own,6,1
+48,8331,Employed,782,11271,24,29.55,1,0,Bachelor,Married,Own,12,1
+37,12859,Employed,727,9596,48,22.07,2,1,Bachelor,Married,Own,13,1
+27,11620,Employed,782,26020,36,14.35,0,0,PhD,Single,Own,8,1
+51,11878,Employed,742,29673,12,22.99,2,1,Master,Single,Own,6,1
+46,7538,Employed,755,20639,12,16.39,1,0,PhD,Single,Rent,6,1
+45,14031,Employed,776,16542,24,29.09,0,0,Master,Married,Rent,10,1
+36,7984,Employed,741,14046,36,29.39,1,1,PhD,Married,Own,14,1
+28,9297,Employed,846,14969,36,17.28,2,0,PhD,Single,Rent,14,1
+37,6040,Employed,705,12763,48,27.33,2,0,Master,Single,Rent,14,1
+47,13141,Employed,753,19005,24,23.54,1,0,Bachelor,Married,Own,11,1
+34,8782,Employed,805,21302,24,17.51,2,0,PhD,Married,Own,12,1
+43,14640,Employed,777,23947,36,27.13,2,0,Bachelor,Married,Own,10,1
+42,12373,Employed,762,26069,48,29.66,0,1,Bachelor,Married,Own,13,1
+39,14051,Employed,768,25020,36,19.43,2,1,Master,Single,Own,5,1
+47,6840,Employed,711,15893,24,13.64,1,0,Bachelor,Single,Own,4,1
+36,12976,Employed,775,14182,48,25.88,2,0,PhD,Married,Rent,4,1
+46,8218,Employed,742,23711,36,14.38,2,1,Bachelor,Single,Own,8,1
+31,7964,Employed,753,18175,12,15.45,2,0,Bachelor,Married,Own,5,1
+33,7216,Employed,757,18315,12,15.79,0,1,Master,Married,Own,8,1
+40,9601,Employed,801,21608,12,23.84,1,1,Bachelor,Married,Rent,4,1
+48,7026,Employed,819,16179,12,29.43,0,1,Master,Married,Own,14,1
+29,14455,Employed,737,9145,24,26.22,0,0,Bachelor,Married,Own,10,1
+36,13889,Employed,844,25818,24,22.62,2,1,Bachelor,Single,Own,3,1
+28,6254,Employed,815,27666,48,21.63,1,0,Bachelor,Single,Own,9,1
+44,7607,Employed,784,20708,48,20.23,1,1,Bachelor,Single,Own,3,1
+45,7999,Employed,737,10020,36,10.66,1,1,Bachelor,Married,Own,12,1
+48,14158,Employed,736,25595,12,27.36,2,0,PhD,Married,Rent,12,1
+34,8723,Employed,770,14351,36,20.73,2,0,Bachelor,Married,Own,12,1
+54,13342,Employed,826,23372,36,20.24,0,1,Bachelor,Single,Own,6,1
+54,8083,Employed,846,10111,12,29.33,0,0,Bachelor,Married,Own,6,1
+29,10083,Employed,712,9820,48,11.24,0,0,Bachelor,Married,Own,5,1
+47,6541,Employed,839,28727,12,15.01,0,1,Bachelor,Married,Rent,9,1
+38,13597,Employed,712,10938,12,18.99,1,0,Bachelor,Married,Rent,5,1
+36,10168,Employed,750,28493,48,22.84,2,1,Master,Single,Own,10,1
+53,11216,Employed,772,24745,36,20.36,1,0,Master,Single,Own,10,1
+32,11573,Employed,775,6926,24,29.0,2,0,Master,Single,Rent,6,1
+38,6460,Employed,812,18803,48,22.6,2,0,Bachelor,Married,Rent,12,1
+54,11275,Employed,776,18212,12,10.9,1,0,Bachelor,Single,Rent,12,1
+27,6836,Employed,794,27711,36,27.88,0,1,Bachelor,Married,Rent,3,1
+25,12747,Employed,744,6991,12,25.34,1,0,PhD,Single,Own,4,1
+37,12083,Employed,800,5454,36,14.58,2,0,Bachelor,Married,Own,9,1
+38,9858,Employed,748,14140,24,14.37,0,0,Bachelor,Single,Own,12,1
+53,10278,Employed,849,10234,12,15.59,1,0,Master,Single,Own,10,1
+46,7261,Employed,834,9337,24,26.11,1,1,PhD,Single,Own,8,1
+39,7371,Employed,793,5584,48,13.61,2,1,Master,Married,Own,13,1
+33,6142,Employed,722,8261,36,23.53,0,1,Bachelor,Single,Own,6,1
+40,11003,Employed,710,23910,48,10.1,2,0,Bachelor,Single,Rent,9,1
+41,14163,Employed,733,5013,48,21.31,2,0,Master,Married,Own,8,1
+42,6072,Employed,744,22255,12,17.24,1,0,Bachelor,Single,Rent,5,1
+35,6861,Employed,833,27497,12,19.46,2,0,Bachelor,Single,Own,4,1
+25,9963,Employed,767,29712,12,16.51,2,0,PhD,Married,Own,4,1
+54,13990,Employed,821,20183,48,26.56,0,1,Bachelor,Married,Own,11,1
+41,10609,Employed,743,28033,24,19.69,1,1,PhD,Single,Rent,13,1
+53,12526,Employed,720,17878,36,28.78,0,0,Bachelor,Married,Own,7,1
+31,13919,Employed,809,16381,48,26.21,2,0,Master,Single,Own,6,1
+41,11248,Employed,806,12428,36,15.07,2,1,Bachelor,Single,Own,7,1
+27,8373,Employed,824,26853,24,16.87,2,0,Bachelor,Married,Own,10,1
+25,7441,Employed,707,25376,36,14.09,0,1,Bachelor,Single,Own,9,1
+41,9796,Employed,799,23956,24,26.75,1,0,Bachelor,Single,Own,13,1
+47,9540,Employed,783,8092,12,29.58,2,0,Master,Married,Own,7,1
+42,6125,Employed,803,17847,12,18.36,2,0,Bachelor,Single,Own,11,1
+37,13935,Employed,784,18796,12,15.78,1,0,Master,Married,Own,5,1
+40,11173,Employed,823,16425,48,14.23,2,0,PhD,Single,Own,10,1
+47,11701,Employed,825,19451,12,29.22,0,1,Bachelor,Married,Rent,10,1
+48,14860,Employed,801,22274,48,10.36,0,0,Bachelor,Single,Rent,14,1
+43,10045,Employed,831,21647,24,25.76,1,0,Master,Married,Own,6,1
+27,14028,Employed,742,17788,24,16.6,0,0,Bachelor,Single,Rent,9,1
+52,9345,Employed,717,5900,36,29.95,0,0,Master,Married,Own,11,1
+30,10424,Employed,722,15022,12,29.92,2,1,Bachelor,Married,Rent,3,1
+26,8130,Employed,787,18007,48,22.07,1,0,Master,Single,Own,4,1
+44,6443,Employed,812,12422,12,25.24,1,1,Bachelor,Single,Own,4,1
+43,8368,Employed,744,27971,36,17.14,0,0,Bachelor,Married,Rent,5,1
+49,12070,Employed,722,9614,24,16.07,1,1,Bachelor,Married,Rent,3,1
+54,8620,Employed,747,10195,36,15.54,2,1,Bachelor,Married,Own,6,1
+25,8133,Employed,765,5447,48,20.5,2,0,Bachelor,Married,Own,13,1
+29,9178,Employed,772,19298,24,10.3,2,0,PhD,Married,Own,3,1
+46,9774,Employed,790,16593,48,23.97,0,0,Bachelor,Married,Own,8,1
+43,8763,Employed,746,12522,36,29.69,2,1,Master,Married,Own,14,1
+44,14659,Employed,824,24249,12,19.39,0,0,Bachelor,Married,Rent,8,1
+38,11364,Employed,702,25306,12,25.49,2,0,Bachelor,Married,Own,11,1
+36,11906,Employed,768,21901,24,20.84,2,0,Bachelor,Married,Own,8,1
+54,9890,Employed,723,8819,36,25.79,2,0,Bachelor,Married,Rent,14,1
+27,13430,Employed,720,26500,36,23.73,2,1,Master,Single,Own,13,1
+52,13818,Employed,842,21828,12,17.85,0,0,Bachelor,Married,Own,12,1
+42,12506,Employed,805,28736,12,12.99,1,1,Bachelor,Single,Own,14,1
+52,11592,Employed,730,18364,36,29.42,2,0,Bachelor,Married,Own,9,1
+44,12291,Employed,750,9573,12,26.02,0,1,Bachelor,Single,Own,11,1
+46,6526,Employed,829,8130,36,14.11,2,0,Master,Single,Own,9,1
+29,7288,Employed,705,14922,24,22.48,1,0,Bachelor,Married,Rent,11,1
+51,10473,Employed,745,27254,36,24.4,2,0,Master,Married,Own,6,1
+35,14785,Employed,792,28698,12,12.16,1,1,PhD,Married,Own,14,1
+47,10200,Employed,703,27367,24,24.08,0,0,Master,Single,Own,8,1
+43,9627,Employed,721,25642,48,17.24,0,0,Bachelor,Married,Own,11,1
+42,14421,Employed,745,9925,12,19.19,2,1,Bachelor,Married,Own,10,1
+45,11409,Employed,803,16060,48,13.85,2,0,Bachelor,Married,Own,13,1
+47,6311,Employed,780,25751,24,21.11,1,1,Bachelor,Married,Own,12,1
+50,10926,Employed,769,5131,24,24.14,0,1,Bachelor,Married,Own,10,1
+51,9555,Employed,773,16099,24,20.19,2,0,Bachelor,Single,Own,10,1
+41,11244,Employed,707,27051,12,14.51,2,1,Master,Single,Rent,12,1
+36,9304,Employed,760,5944,12,12.05,0,1,Master,Single,Rent,12,1
+28,10911,Employed,701,21563,24,22.52,2,1,Bachelor,Single,Rent,7,1
+33,12939,Employed,833,7631,12,10.07,2,0,Bachelor,Married,Rent,12,1
+53,7725,Employed,792,24425,24,27.35,1,0,Master,Single,Rent,6,1
+32,10625,Employed,721,25819,12,18.94,2,0,Bachelor,Married,Own,7,1
+40,10833,Employed,821,16630,36,12.11,2,0,PhD,Single,Own,6,1
+54,14538,Employed,767,26856,36,10.93,0,0,Bachelor,Married,Own,13,1
+29,6112,Employed,835,19890,12,14.3,1,1,Bachelor,Married,Own,10,1
+40,11962,Employed,752,13323,24,12.37,2,0,Bachelor,Single,Own,11,1
+47,7156,Employed,828,29058,48,27.63,0,0,Bachelor,Single,Own,11,1
+49,6515,Employed,708,22309,12,11.78,2,0,Bachelor,Single,Rent,5,1
+53,11601,Employed,727,11153,36,20.37,1,0,PhD,Single,Rent,3,1
+45,10306,Employed,807,13856,12,29.18,0,0,Bachelor,Married,Own,10,1
+47,9356,Employed,849,23503,24,25.72,2,0,Bachelor,Married,Rent,10,1
+48,14430,Employed,760,8809,24,24.71,1,0,Master,Single,Own,12,1
+31,12446,Employed,728,22477,24,24.54,0,1,Bachelor,Married,Own,6,1
+46,8993,Employed,792,19428,48,21.54,2,0,Bachelor,Married,Rent,12,1
+39,13312,Employed,773,8293,12,23.11,0,0,PhD,Married,Own,14,1
+49,10792,Employed,783,26236,12,20.66,2,1,Master,Single,Own,9,1
+40,8691,Employed,776,26871,12,29.92,2,1,Bachelor,Married,Rent,6,1
+47,9187,Employed,800,18651,12,17.15,0,0,Bachelor,Single,Rent,11,1
+48,7789,Employed,808,21088,48,28.38,1,1,Bachelor,Single,Own,12,1
+35,8498,Employed,740,12208,48,25.17,0,0,Master,Married,Own,5,1
+49,14812,Employed,810,21533,48,15.76,0,0,Bachelor,Married,Own,9,1
+37,9223,Employed,784,29636,24,14.11,1,0,Bachelor,Single,Own,3,1
+35,11419,Employed,708,27972,12,13.87,2,0,Bachelor,Married,Own,3,1
+45,9986,Employed,744,18926,24,14.0,0,0,Bachelor,Single,Own,4,1
+51,13527,Employed,770,19638,12,21.56,0,0,Bachelor,Married,Own,12,1
+47,10425,Employed,820,16490,48,18.92,0,0,Bachelor,Married,Own,4,1
+43,12292,Employed,825,22549,36,26.16,0,1,PhD,Married,Own,8,1
+53,7537,Employed,815,7335,24,20.3,0,0,Master,Single,Own,14,1
+28,13406,Employed,733,28582,12,13.2,1,0,Bachelor,Married,Own,6,1
+40,6012,Employed,722,13964,36,20.75,0,0,Master,Single,Own,9,1
+26,6006,Employed,729,22131,36,13.67,2,0,Bachelor,Married,Own,6,1
+44,14072,Employed,721,11667,12,20.91,2,0,Master,Single,Rent,3,1
+46,8802,Employed,763,26747,48,27.25,2,0,Master,Married,Own,8,1
+31,9082,Employed,838,23299,36,25.04,1,0,Master,Married,Own,12,1
+37,14148,Employed,778,20515,24,26.71,2,0,Bachelor,Married,Own,6,1
+53,11834,Employed,801,13239,36,15.72,1,1,Master,Married,Rent,3,1
+41,11951,Employed,832,27533,36,21.53,1,0,Master,Single,Own,7,1
+35,14400,Employed,836,25169,48,19.92,1,0,Bachelor,Single,Own,6,1
+38,13891,Employed,727,10432,48,15.53,0,1,PhD,Single,Rent,8,1
+41,11705,Employed,750,8720,48,17.12,0,0,Bachelor,Single,Rent,8,1
+46,13896,Employed,712,18130,48,12.03,1,0,Bachelor,Single,Own,4,1
+31,6870,Employed,732,29216,48,11.36,2,0,Bachelor,Married,Rent,11,1
+53,6399,Employed,833,15284,48,12.7,0,0,Bachelor,Single,Own,13,1
+48,9058,Employed,820,6598,36,28.68,1,0,Master,Married,Own,14,1
+53,7963,Employed,821,24540,12,19.29,2,0,Master,Single,Rent,14,1
+28,13574,Employed,714,11191,24,19.11,1,1,Bachelor,Married,Own,9,1
+51,7471,Employed,833,19291,36,26.12,0,0,PhD,Single,Own,4,1
+27,13838,Employed,751,10239,24,20.34,1,0,Bachelor,Married,Rent,13,1
+50,7078,Employed,752,27030,12,16.94,2,0,Bachelor,Married,Own,9,1
+28,10249,Employed,840,5564,48,20.55,2,0,Bachelor,Single,Own,9,1
+29,13728,Employed,766,24529,36,10.16,0,0,Bachelor,Married,Own,7,1
+33,12385,Employed,772,11726,48,24.66,1,0,Bachelor,Single,Rent,3,1
+40,7057,Employed,733,13158,48,20.13,1,1,Master,Married,Own,9,1
+29,13290,Employed,762,15985,12,28.02,0,0,Bachelor,Married,Own,10,1
+47,12871,Employed,822,6814,36,27.06,0,0,Bachelor,Married,Own,6,1
+28,14407,Employed,819,15368,12,20.39,2,1,Bachelor,Single,Rent,13,1
+51,12594,Employed,711,15058,12,23.17,0,0,PhD,Single,Own,3,1
+42,14559,Employed,773,24428,24,19.95,0,0,Bachelor,Single,Rent,14,1
+32,12392,Employed,791,13825,12,29.3,0,0,Master,Married,Rent,12,1
+53,8646,Employed,846,9237,12,21.18,1,0,Bachelor,Single,Own,8,1
+27,13139,Employed,849,15179,36,21.14,2,0,Bachelor,Married,Own,10,1
+31,13299,Employed,841,7533,36,22.99,1,0,Master,Married,Own,12,1
+26,8119,Employed,810,29769,36,22.06,1,0,Bachelor,Single,Own,8,1
+28,10528,Employed,773,16177,48,29.16,2,0,Bachelor,Single,Own,3,1
+39,10153,Employed,848,14535,48,29.3,1,0,PhD,Married,Own,4,1
+44,7360,Employed,711,14063,48,19.95,1,0,PhD,Married,Own,3,1
+46,12685,Employed,768,24046,36,29.28,2,1,Bachelor,Single,Rent,7,1
+35,13411,Employed,766,26683,12,27.48,0,0,Master,Single,Own,13,1
+44,8065,Employed,775,15827,12,24.59,0,1,Master,Single,Own,4,1
+32,6343,Employed,838,7204,48,19.59,1,0,Master,Married,Own,14,1
+45,6959,Employed,778,13277,48,23.58,2,0,Bachelor,Single,Rent,4,1
+49,11991,Employed,768,23167,24,14.55,2,1,Bachelor,Single,Rent,11,1
+43,7092,Employed,738,24361,48,11.44,0,1,Bachelor,Single,Own,14,1
+48,6666,Employed,840,23507,36,12.99,2,0,Bachelor,Married,Own,4,1
+43,10652,Employed,803,8540,36,18.06,1,0,Bachelor,Married,Rent,11,1
+46,11562,Employed,804,19510,48,20.31,0,0,Bachelor,Single,Own,13,1
+52,14843,Employed,730,11901,48,15.53,2,1,Master,Single,Own,5,1
+28,13805,Employed,821,25539,48,11.55,1,0,Master,Single,Own,12,1
+45,11615,Employed,721,28459,12,11.17,2,0,Bachelor,Single,Own,4,1
+25,9034,Employed,796,9779,24,19.04,2,0,PhD,Married,Rent,10,1
+46,10379,Employed,842,26983,48,16.01,1,0,Master,Single,Own,12,1
+41,6676,Employed,820,12445,12,10.11,0,0,Master,Single,Own,10,1
+49,12823,Employed,816,6101,24,15.34,1,0,Bachelor,Married,Own,5,1
+25,11969,Employed,766,25266,12,19.49,1,1,Master,Married,Own,9,1
+28,10114,Employed,818,22817,12,29.19,2,1,Master,Single,Rent,13,1
+26,8087,Employed,762,15626,12,26.51,1,0,Bachelor,Single,Own,4,1
+30,12487,Employed,807,24139,48,12.72,1,1,Bachelor,Single,Own,10,1
+37,10506,Employed,833,19789,12,26.43,0,1,Bachelor,Single,Own,14,1
+26,7636,Employed,765,19116,24,17.91,0,0,Bachelor,Single,Own,12,1
+50,8536,Employed,818,7395,36,19.52,0,0,Bachelor,Single,Own,5,1
+34,9497,Employed,819,18011,12,25.13,2,0,Bachelor,Married,Rent,5,1
+40,6092,Employed,792,22496,24,28.97,1,0,Master,Single,Own,5,1
+39,8966,Employed,807,20023,24,28.73,1,0,Bachelor,Married,Rent,11,1
+41,6462,Employed,789,14194,36,11.07,2,0,Master,Single,Own,3,1
+37,8083,Employed,748,21061,24,25.28,2,1,Bachelor,Single,Own,11,1
+46,11313,Employed,723,28442,12,23.07,2,0,Bachelor,Married,Own,10,1
+27,6205,Employed,721,16461,48,17.89,1,0,Master,Married,Own,8,1
+37,12106,Employed,792,5256,12,17.17,0,0,Bachelor,Single,Own,12,1
+51,8602,Employed,834,15702,36,21.23,1,1,Master,Married,Own,10,1
+34,11708,Employed,803,14614,12,27.31,0,0,Bachelor,Single,Own,9,1
+28,10372,Employed,729,8985,48,23.45,1,0,Bachelor,Single,Own,8,1
+36,6131,Employed,849,13456,48,26.57,0,1,Bachelor,Single,Rent,5,1
+53,11771,Employed,785,10173,36,13.98,2,0,Bachelor,Married,Own,14,1
+45,14270,Employed,818,13029,12,18.8,2,0,Bachelor,Married,Own,12,1
+44,12349,Employed,712,29885,36,28.81,2,1,PhD,Married,Own,11,1
+42,13582,Employed,832,12405,48,12.76,0,0,Master,Single,Own,7,1
+51,12811,Employed,786,5641,36,15.18,2,0,Bachelor,Single,Own,8,1
+31,11540,Employed,840,24663,24,21.97,2,0,Bachelor,Single,Rent,3,1
+26,11510,Employed,711,29629,36,21.49,2,1,Bachelor,Married,Own,11,1
+50,6769,Employed,717,23679,48,13.65,2,0,Bachelor,Married,Rent,8,1
+25,14290,Employed,831,18346,36,23.55,1,1,Bachelor,Single,Own,5,1
+34,11644,Employed,741,17825,12,18.12,0,0,PhD,Married,Own,6,1
+29,12190,Employed,708,8268,12,13.82,0,0,Bachelor,Married,Own,14,1
+38,10278,Employed,702,9136,12,15.52,1,0,PhD,Married,Own,11,1
+53,12179,Employed,762,22061,12,11.4,0,0,Master,Married,Own,11,1
+34,7056,Employed,774,7445,48,21.58,2,0,Bachelor,Single,Own,6,1
+32,8695,Employed,742,6726,24,19.67,1,0,Bachelor,Married,Rent,11,1
+44,8993,Employed,797,6565,36,20.39,2,0,Bachelor,Married,Rent,14,1
+51,8732,Employed,723,7998,12,10.55,0,1,Bachelor,Married,Own,10,1
+48,13588,Employed,786,24821,12,22.92,0,0,Master,Married,Rent,4,1
+31,13297,Employed,747,12975,36,24.48,2,1,Bachelor,Married,Own,11,1
+39,9650,Employed,825,24012,48,13.07,2,1,Master,Married,Own,11,1
+39,9475,Employed,770,5075,48,28.09,2,0,Bachelor,Single,Own,7,1
+48,8609,Employed,703,6253,48,11.0,0,0,Bachelor,Married,Own,8,1
+53,7721,Employed,737,10773,12,11.19,0,0,Master,Single,Rent,4,1
+43,8436,Employed,840,11183,48,27.1,0,0,Master,Single,Rent,7,1
+28,9877,Employed,810,17903,24,24.73,2,0,Bachelor,Married,Own,5,1
+47,11322,Employed,755,17562,12,26.46,0,0,Bachelor,Married,Rent,10,1
+49,14974,Employed,713,18719,24,26.0,0,1,Bachelor,Single,Own,11,1
+28,10206,Employed,741,23347,12,10.15,2,0,Bachelor,Single,Own,7,1
+46,7709,Employed,793,20295,24,15.02,2,0,Bachelor,Single,Rent,5,1
+25,14702,Employed,834,5330,24,13.95,1,1,Bachelor,Married,Own,10,1
+52,6799,Employed,798,27672,24,20.94,0,0,PhD,Single,Rent,9,1
+46,12236,Employed,731,29299,12,21.23,0,0,Bachelor,Married,Rent,9,1
+46,6400,Employed,780,8031,24,27.25,2,0,Master,Married,Own,12,1
+30,13962,Employed,718,19115,48,10.52,2,1,Bachelor,Married,Own,7,1
+48,8809,Employed,810,23649,48,11.47,2,0,Bachelor,Married,Own,3,1
+41,8449,Employed,709,9892,12,16.76,0,0,Bachelor,Married,Own,6,1
+29,11778,Employed,798,12660,48,14.81,0,0,Master,Single,Own,13,1
+50,9257,Employed,806,25616,48,24.85,0,0,Master,Single,Rent,5,1
+46,14965,Employed,826,15039,12,15.12,1,0,Master,Married,Own,10,1
+25,9626,Employed,814,22598,36,21.61,2,0,Bachelor,Single,Own,6,1
+50,6715,Employed,823,26630,48,19.23,2,1,Bachelor,Married,Rent,9,1
+48,14552,Employed,716,12463,12,29.77,0,0,Bachelor,Married,Own,9,1
+29,9047,Employed,736,8573,12,19.71,2,0,PhD,Married,Own,11,1
+33,13803,Employed,806,23905,24,22.11,0,0,Master,Single,Own,3,1
+40,9280,Employed,735,16976,12,26.12,2,0,Master,Married,Rent,12,1
+37,10107,Employed,806,12784,48,25.16,0,0,Bachelor,Married,Own,4,1
+33,11226,Employed,738,9316,24,29.24,2,0,Bachelor,Single,Own,4,1
+43,8934,Employed,815,11276,36,25.02,2,0,Bachelor,Married,Own,3,1
+51,10830,Employed,797,17681,36,15.54,1,0,Master,Married,Own,8,1
+37,10280,Employed,740,13179,24,18.99,0,1,Bachelor,Single,Own,6,1
+41,12350,Employed,706,17422,24,28.17,2,1,Bachelor,Single,Own,4,1
+26,10046,Employed,823,12659,48,26.48,2,0,Bachelor,Single,Own,3,1
+33,6608,Employed,740,25900,24,23.25,1,0,Bachelor,Married,Own,11,1
+37,6553,Employed,807,18349,36,20.71,1,1,Master,Single,Rent,12,1
+49,13545,Employed,750,9084,24,14.16,0,0,PhD,Single,Own,7,1
+51,13201,Employed,746,21789,24,19.06,0,1,PhD,Single,Rent,3,1
+38,9322,Employed,756,23367,24,26.03,2,1,Master,Married,Rent,3,1
+52,6231,Employed,719,20199,36,15.77,0,0,Master,Married,Rent,3,1
+45,7654,Employed,729,19697,48,15.86,0,0,Bachelor,Married,Own,6,1
+52,13258,Employed,841,20565,24,21.42,1,0,Bachelor,Married,Rent,6,1
+37,7615,Employed,809,17173,24,24.99,1,0,Master,Married,Rent,5,1
+30,10015,Employed,845,11483,48,21.55,2,0,Bachelor,Married,Own,12,1
+35,12229,Employed,755,29428,12,12.99,1,0,Master,Married,Own,4,1
+47,11931,Employed,776,14456,12,24.67,2,0,Bachelor,Married,Rent,8,1
+53,8258,Employed,842,6445,48,27.63,1,1,Bachelor,Married,Own,7,1
+44,7775,Employed,802,12710,36,23.7,0,0,Bachelor,Single,Rent,12,1
+48,13535,Employed,715,29631,48,23.28,0,1,Master,Single,Rent,7,1
+36,11678,Employed,761,23944,48,10.49,1,0,Bachelor,Married,Own,7,1
+37,10719,Employed,720,10627,36,24.48,2,0,Bachelor,Single,Own,6,1
+26,9458,Employed,765,16957,24,10.64,2,0,Master,Married,Own,6,1
+32,7311,Employed,795,9051,24,16.79,1,1,PhD,Married,Own,7,1
+47,12485,Employed,791,20421,48,16.94,2,0,Bachelor,Single,Own,6,1
+54,7102,Employed,806,15436,24,15.09,0,0,Bachelor,Single,Rent,9,1
+39,12941,Employed,772,18290,48,21.76,0,0,Master,Single,Rent,6,1
+28,11687,Employed,829,9328,12,20.97,2,0,Bachelor,Single,Rent,8,1
+35,11644,Employed,829,19382,12,22.25,2,0,Bachelor,Married,Rent,11,1
+43,7358,Employed,724,15884,12,10.41,1,0,Bachelor,Married,Own,5,1
+50,13764,Employed,779,22368,48,12.06,1,0,Bachelor,Married,Own,3,1
+42,6519,Employed,777,19339,12,12.47,1,0,Master,Single,Rent,7,1
+41,13218,Employed,727,19454,24,25.49,0,1,Master,Single,Own,11,1
+47,14562,Employed,762,17117,48,23.35,1,0,Bachelor,Married,Rent,7,1
+26,7095,Employed,806,13137,12,18.85,1,1,Master,Married,Own,12,1
+32,7719,Employed,770,16279,12,27.83,1,1,Bachelor,Married,Rent,12,1
+51,8721,Employed,727,27858,48,19.49,2,0,Master,Married,Rent,10,1
+39,14412,Employed,713,21004,12,10.37,0,1,Bachelor,Married,Own,7,1
+41,6680,Employed,750,13065,12,15.31,1,0,Bachelor,Single,Own,7,1
+47,8740,Employed,800,26273,24,13.08,2,0,Master,Married,Own,13,1
+54,10309,Employed,825,17027,36,15.04,1,0,Master,Married,Own,6,1
+44,7969,Employed,797,14091,12,18.91,1,0,Master,Single,Rent,13,1
+28,13397,Employed,761,20425,36,27.04,0,0,Master,Single,Own,8,1
+26,8506,Employed,792,27967,36,18.24,1,0,Master,Single,Own,13,1
+42,7249,Employed,832,21744,36,24.49,2,0,Master,Married,Own,7,1
+43,10147,Employed,719,16829,36,16.56,1,1,Master,Single,Rent,11,1
+34,6672,Employed,729,21350,36,26.97,1,0,Master,Married,Own,8,1
+50,12352,Employed,732,19740,12,24.58,2,1,Master,Single,Own,6,1
+38,10443,Employed,705,12246,36,13.71,1,0,Bachelor,Single,Own,14,1
+30,6367,Employed,741,19242,12,14.26,0,0,Bachelor,Married,Own,14,1
+27,13850,Employed,760,17521,48,13.89,0,1,Master,Single,Own,12,1
+51,11951,Employed,728,13855,36,22.79,0,0,PhD,Single,Rent,11,1
+29,9709,Employed,707,29759,12,14.56,0,0,Bachelor,Married,Rent,10,1
+49,14601,Employed,714,19760,36,26.67,2,0,Master,Married,Own,5,1
+29,13223,Employed,825,6604,36,13.02,0,0,Bachelor,Single,Own,10,1
+53,9701,Employed,837,11279,24,17.03,2,0,Bachelor,Married,Rent,10,1
+27,9607,Employed,768,22869,36,25.27,2,1,PhD,Single,Rent,10,1
+26,12563,Employed,778,24205,48,15.04,2,0,Master,Married,Rent,9,1
+53,11522,Employed,729,23250,24,24.77,0,1,Bachelor,Married,Own,5,1
+37,9246,Employed,810,9246,24,21.44,2,0,Bachelor,Married,Rent,4,1
+52,11412,Employed,784,24457,12,12.1,2,0,Bachelor,Married,Rent,9,1
+52,12092,Employed,780,26412,12,13.14,0,0,Bachelor,Married,Rent,7,1
+40,6605,Employed,768,11277,36,13.6,0,0,Bachelor,Single,Own,12,1
+40,14038,Employed,770,21860,12,13.39,2,0,Bachelor,Married,Own,9,1
+26,6646,Employed,729,9776,24,13.44,2,0,Bachelor,Married,Own,10,1
+33,7634,Employed,712,17808,48,18.17,1,1,Bachelor,Single,Own,11,1
+52,12404,Employed,788,17589,36,13.03,0,0,Bachelor,Married,Own,11,1
+29,9789,Employed,714,21357,36,12.74,2,1,Master,Married,Own,11,1
+49,6035,Employed,774,12335,48,10.56,2,0,Bachelor,Single,Own,10,1
+31,10315,Employed,799,11351,36,12.45,0,0,PhD,Single,Own,4,1
+29,14928,Employed,778,16897,12,23.74,0,0,Bachelor,Married,Own,13,1
+49,8958,Employed,805,8527,12,29.0,2,0,Master,Single,Own,6,1
+28,14757,Employed,738,20037,12,28.1,0,1,Bachelor,Married,Own,7,1
+27,9699,Employed,774,19715,12,29.81,1,0,Bachelor,Single,Rent,8,1
+29,9103,Employed,833,9529,24,22.2,0,1,Bachelor,Married,Own,7,1
+42,11969,Employed,809,28407,24,18.05,0,0,Master,Single,Rent,3,1
+36,14041,Employed,763,20339,36,21.02,0,0,PhD,Married,Own,11,1
+28,13101,Employed,764,10545,48,21.02,1,1,Bachelor,Single,Rent,10,1
+30,6635,Employed,826,20934,48,26.49,0,1,Master,Married,Own,9,1
+28,13230,Employed,785,10295,48,13.83,1,0,Bachelor,Single,Own,8,1
+35,12557,Employed,771,11198,48,21.55,0,0,Bachelor,Married,Own,9,1
+43,10707,Employed,819,8773,36,14.95,2,0,Bachelor,Married,Own,3,1
+51,13372,Employed,833,21015,24,20.63,0,0,Bachelor,Married,Own,5,1
+34,8662,Employed,828,21430,24,21.35,2,0,Master,Single,Own,3,1
+33,10589,Employed,781,21908,12,23.98,1,1,Master,Married,Rent,14,1
+53,13248,Employed,801,24566,12,28.97,1,0,Bachelor,Single,Own,13,1
+26,6608,Employed,793,15805,12,24.63,1,0,Master,Married,Own,14,1
+35,13851,Employed,724,28035,12,25.84,2,0,Bachelor,Married,Rent,11,1
+43,10826,Employed,727,29881,36,13.38,0,0,Master,Single,Own,6,1
+37,14703,Employed,775,24323,48,28.02,1,0,Bachelor,Married,Rent,10,1
+29,13406,Employed,790,7195,36,11.26,1,0,Master,Single,Rent,6,1
+40,12309,Employed,722,19452,48,14.89,0,0,Bachelor,Married,Own,7,1
+31,8314,Employed,807,12319,12,25.36,1,0,Bachelor,Married,Rent,10,1
+51,8246,Employed,848,23697,48,24.48,1,1,Bachelor,Married,Own,8,1
+37,11287,Employed,710,7330,48,29.04,2,0,Master,Single,Rent,10,1
+42,9229,Employed,774,19908,12,11.19,2,1,Master,Single,Own,13,1
+27,8766,Employed,797,29392,12,18.99,2,0,Bachelor,Single,Own,3,1
+25,10535,Employed,747,6382,24,29.97,2,1,Bachelor,Single,Rent,6,1
+38,6352,Employed,764,7277,24,27.13,0,0,Master,Single,Own,11,1
+29,9272,Employed,811,13472,48,19.79,1,1,Bachelor,Single,Own,7,1
+31,12106,Employed,840,25789,36,25.19,1,0,Master,Married,Own,13,1
+25,14844,Employed,839,20894,24,29.81,2,1,Master,Married,Own,6,1
+42,6421,Employed,733,13304,24,24.27,1,0,Bachelor,Single,Rent,9,1
+31,8203,Employed,754,18661,48,14.2,0,1,Bachelor,Single,Own,14,1
+46,9459,Employed,761,16857,48,27.32,2,0,Bachelor,Married,Own,13,1
+44,11039,Employed,789,16276,48,17.89,1,0,Bachelor,Single,Own,8,1
+44,8203,Employed,793,10091,24,23.67,2,1,Bachelor,Married,Own,4,1
+36,9753,Employed,808,17940,24,21.14,2,1,Master,Married,Own,6,1
+41,10866,Employed,819,14243,12,23.03,0,0,PhD,Single,Own,4,1
+26,14665,Employed,817,12541,24,27.79,0,0,Bachelor,Single,Own,6,1
+52,7410,Employed,841,9551,24,14.65,1,0,Master,Single,Rent,14,1
+33,8835,Employed,807,24072,12,23.67,2,0,Bachelor,Single,Own,6,1
+42,13036,Employed,723,8795,48,27.62,2,0,Bachelor,Single,Rent,10,1
+51,10950,Employed,846,15997,48,13.96,2,0,Bachelor,Married,Rent,11,1
+51,13266,Employed,734,21780,12,20.14,1,0,Bachelor,Married,Own,3,1
+39,13481,Employed,760,9129,48,16.25,2,1,Master,Married,Own,12,1
+40,11394,Employed,764,15234,24,11.83,0,0,Bachelor,Married,Own,4,1
+28,11374,Employed,730,16155,48,13.94,0,1,Master,Single,Rent,6,1
+35,6768,Employed,831,5839,24,19.74,1,1,Bachelor,Married,Rent,3,1
+31,9094,Employed,714,13286,12,29.16,0,0,Bachelor,Married,Own,8,1
+47,12063,Employed,794,23596,48,20.68,1,1,Bachelor,Single,Own,11,1
+53,8863,Employed,839,5911,12,18.35,1,1,Bachelor,Single,Own,5,1
+45,10212,Employed,781,19928,36,26.91,0,1,Master,Married,Rent,8,1
+37,10510,Employed,738,23940,36,16.42,2,1,Master,Single,Rent,14,1
+36,12255,Employed,767,9559,12,27.27,0,1,Bachelor,Married,Own,5,1
+50,7007,Employed,741,20879,48,23.66,2,1,Bachelor,Married,Own,4,1
+27,11972,Employed,791,10747,48,23.47,0,0,Master,Married,Rent,12,1
+49,8496,Employed,845,19170,12,10.65,0,1,Bachelor,Single,Own,9,1
+53,6478,Employed,809,9263,36,24.95,2,1,Bachelor,Married,Rent,5,1
+42,14335,Employed,789,23798,24,13.49,0,0,PhD,Married,Rent,13,1
+42,12674,Employed,783,29596,24,26.01,0,1,PhD,Single,Own,10,1
+29,10044,Employed,733,26887,48,27.97,0,0,Master,Single,Own,3,1
+33,6234,Employed,704,11855,12,13.26,0,1,Bachelor,Single,Own,5,1
+48,6837,Employed,718,12823,36,14.73,2,1,Bachelor,Married,Own,6,1
+30,6295,Employed,784,17142,36,21.32,0,0,Bachelor,Married,Own,11,1
+49,7286,Employed,740,16233,48,12.36,1,0,Bachelor,Married,Own,8,1
+27,11485,Employed,836,13019,36,12.47,2,1,Bachelor,Single,Rent,9,1
+53,12626,Employed,814,27233,48,25.72,0,0,Bachelor,Single,Own,4,1
+27,7933,Employed,842,16636,12,12.15,0,0,Bachelor,Single,Own,6,1
+34,8962,Employed,844,19900,48,15.67,2,0,Bachelor,Married,Rent,9,1
+52,10060,Employed,781,29435,24,24.89,2,1,Bachelor,Single,Own,5,1
+37,11948,Employed,787,11669,12,26.44,1,0,Bachelor,Single,Own,4,1
+54,13544,Employed,700,5431,24,17.31,1,0,Bachelor,Single,Own,8,1
+54,7050,Employed,815,25191,12,13.01,1,1,PhD,Single,Own,14,1
+46,11074,Employed,810,27237,24,20.41,0,0,Bachelor,Single,Rent,8,1
+40,8368,Employed,826,28375,12,14.84,1,1,Master,Married,Own,14,1
+40,10909,Employed,753,19397,12,17.5,1,0,PhD,Single,Own,8,1
+47,10605,Employed,731,10420,12,17.4,0,0,Bachelor,Single,Own,11,1
+50,10173,Employed,788,24870,12,23.61,0,0,Bachelor,Single,Own,8,1
+53,9048,Employed,845,22190,12,20.26,2,0,Bachelor,Married,Rent,8,1
+46,11768,Employed,704,27279,12,23.24,1,0,Bachelor,Single,Rent,4,1
+40,14606,Employed,719,19221,36,10.9,1,0,Bachelor,Single,Own,11,1
+57,3878,Unemployed,409,29973,12,47.56,3,1,High School,Single,Own,1,0
+44,5472,Unemployed,362,10301,24,35.54,4,1,High School,Married,Rent,3,0
+26,5683,Employed,356,21818,12,40.65,2,1,Bachelor,Single,Rent,7,0
+27,2296,Unemployed,629,31792,48,33.18,2,0,High School,Married,Rent,1,0
+22,2210,Employed,340,27604,24,46.35,4,1,Bachelor,Single,Own,7,0
+39,7995,Unemployed,553,20681,12,38.18,3,0,High School,Married,Own,7,0
+27,3503,Employed,571,48889,48,48.07,4,0,Bachelor,Single,Rent,4,0
+34,3133,Unemployed,479,24699,12,33.2,3,1,High School,Single,Rent,2,0
+22,3613,Employed,421,36543,12,30.19,3,1,High School,Single,Own,1,0
+25,7049,Unemployed,568,23025,12,30.08,3,0,High School,Married,Own,1,0
+53,4691,Unemployed,487,33949,12,32.41,3,0,High School,Married,Rent,6,0
+36,3971,Unemployed,418,28668,36,49.93,2,0,Bachelor,Single,Own,1,0
+46,7770,Unemployed,353,25958,24,40.93,3,1,High School,Single,Own,5,0
+32,5616,Employed,543,48063,48,35.76,4,1,High School,Single,Own,4,0
+22,4299,Unemployed,615,11717,24,33.17,4,1,Bachelor,Single,Own,3,0
+29,5707,Employed,395,40319,12,49.52,2,1,Bachelor,Married,Own,6,0
+57,4493,Unemployed,500,29681,48,45.54,4,1,High School,Single,Rent,4,0
+32,3915,Unemployed,464,37989,48,33.89,4,1,High School,Single,Rent,6,0
+37,6227,Employed,637,43816,12,42.08,3,1,Bachelor,Single,Own,2,0
+33,6955,Employed,615,15390,12,48.46,2,1,High School,Married,Rent,6,0
+34,5471,Unemployed,343,36599,12,46.38,4,1,High School,Single,Own,3,0
+39,5370,Employed,327,28620,12,32.91,3,1,High School,Married,Rent,4,0
+34,3798,Unemployed,306,39570,36,47.27,4,1,High School,Single,Own,6,0
+35,5497,Unemployed,589,28977,12,34.61,2,1,High School,Married,Rent,2,0
+54,6830,Unemployed,546,33751,36,46.19,4,0,High School,Married,Own,4,0
+47,6353,Unemployed,376,10257,48,40.57,3,1,High School,Married,Rent,3,0
+37,3047,Unemployed,625,13110,24,33.95,3,0,High School,Single,Own,5,0
+53,3854,Unemployed,516,28935,48,31.17,4,1,High School,Married,Own,5,0
+51,4350,Unemployed,589,31031,12,32.63,4,1,Bachelor,Single,Own,6,0
+39,7137,Unemployed,641,28864,12,43.59,4,1,High School,Married,Own,4,0
+53,4499,Unemployed,336,14493,12,40.67,4,1,High School,Single,Rent,3,0
+42,4360,Unemployed,499,43919,12,37.49,4,1,Bachelor,Single,Rent,6,0
+29,7193,Unemployed,312,23843,48,37.56,2,0,High School,Single,Rent,4,0
+23,3842,Employed,442,22415,36,46.1,3,1,Bachelor,Married,Rent,5,0
+33,5069,Unemployed,605,38499,48,43.31,2,1,Bachelor,Married,Own,2,0
+33,2411,Unemployed,439,15297,24,43.49,2,1,High School,Single,Own,2,0
+43,7726,Employed,534,46253,36,38.64,3,1,Bachelor,Single,Rent,6,0
+44,3569,Unemployed,553,25262,36,34.44,4,0,High School,Married,Own,5,0
+50,7874,Unemployed,547,19524,48,46.26,4,1,High School,Single,Rent,4,0
+54,6213,Employed,618,14105,48,32.72,2,1,High School,Single,Own,3,0
+32,4404,Employed,433,23176,36,43.26,3,1,Bachelor,Single,Rent,5,0
+25,7708,Unemployed,446,43986,12,34.64,4,1,Bachelor,Single,Rent,2,0
+27,7894,Employed,633,25908,36,47.69,3,1,High School,Married,Own,5,0
+36,2439,Unemployed,396,38675,24,49.26,3,0,Bachelor,Married,Rent,2,0
+59,5402,Unemployed,392,18191,36,48.81,3,0,High School,Married,Own,7,0
+51,6935,Unemployed,429,43820,24,43.15,3,0,High School,Single,Rent,7,0
+56,7358,Unemployed,433,12046,48,42.41,2,1,High School,Married,Rent,4,0
+55,5890,Unemployed,457,37498,36,36.84,3,0,High School,Married,Own,2,0
+54,2131,Unemployed,316,26690,36,33.75,2,0,High School,Single,Rent,7,0
+58,6099,Employed,329,25000,24,44.44,2,1,High School,Married,Own,1,0
+32,3143,Unemployed,506,33304,12,37.62,4,1,High School,Single,Rent,4,0
+33,4676,Unemployed,342,38274,48,38.27,4,1,Bachelor,Married,Own,6,0
+31,3404,Employed,388,19438,36,42.82,3,0,High School,Single,Rent,5,0
+33,6244,Unemployed,639,32528,36,49.26,2,1,High School,Married,Rent,2,0
+54,7273,Unemployed,414,17052,48,36.8,4,1,Bachelor,Married,Own,6,0
+48,4910,Unemployed,630,15587,48,45.69,3,0,High School,Married,Rent,6,0
+40,5123,Unemployed,430,34507,12,48.64,3,1,Bachelor,Married,Rent,7,0
+26,6547,Unemployed,411,33011,36,31.27,3,1,Bachelor,Married,Rent,6,0
+35,5867,Employed,460,38114,24,30.45,3,1,Bachelor,Single,Own,3,0
+40,3946,Unemployed,643,24536,36,30.93,4,1,High School,Married,Rent,6,0
+30,4157,Unemployed,608,23785,12,47.66,4,1,High School,Single,Rent,2,0
+55,7249,Unemployed,376,13973,24,46.68,3,0,High School,Single,Own,2,0
+42,7088,Unemployed,450,17810,36,47.7,3,1,Bachelor,Single,Rent,6,0
+23,7689,Unemployed,515,38060,36,35.41,3,1,High School,Married,Rent,4,0
+29,2814,Employed,505,20625,36,40.54,2,1,High School,Married,Rent,4,0
+41,6222,Unemployed,391,38057,48,49.37,3,1,High School,Single,Own,7,0
+32,7840,Employed,580,27125,12,42.97,2,1,High School,Single,Own,3,0
+37,4109,Employed,435,14213,24,35.87,2,1,High School,Single,Own,2,0
+28,5621,Employed,308,14105,36,49.88,2,1,High School,Single,Own,1,0
+53,7110,Unemployed,433,12397,48,47.92,4,1,High School,Single,Rent,6,0
+39,5673,Unemployed,330,40806,12,49.05,4,1,High School,Single,Rent,4,0
+25,3536,Unemployed,471,15578,12,38.63,3,1,High School,Single,Own,3,0
+52,4698,Unemployed,502,13965,36,40.22,2,1,Bachelor,Married,Rent,7,0
+34,4759,Unemployed,379,18040,48,36.12,3,0,High School,Married,Own,1,0
+27,3479,Unemployed,397,39364,36,43.65,2,0,High School,Married,Own,3,0
+49,3475,Employed,444,12475,24,39.97,3,1,High School,Single,Rent,5,0
+28,4104,Unemployed,433,47181,12,31.13,4,1,Bachelor,Married,Own,6,0
+38,5710,Employed,414,23814,24,46.07,3,0,Bachelor,Married,Rent,3,0
+36,6587,Unemployed,566,41380,24,42.69,4,0,High School,Single,Rent,2,0
+52,3736,Employed,369,44263,12,41.23,2,1,High School,Single,Rent,2,0
+39,3256,Unemployed,338,19667,24,30.46,4,1,High School,Single,Rent,3,0
+40,5696,Employed,406,28643,36,32.3,2,1,High School,Single,Rent,2,0
+38,3718,Employed,568,18186,48,40.07,3,1,High School,Single,Rent,3,0
+56,3345,Unemployed,463,46895,24,44.87,2,0,Bachelor,Single,Rent,6,0
+24,6872,Employed,310,48059,36,48.45,2,1,High School,Single,Own,3,0
+58,2637,Employed,596,45747,48,36.69,3,1,High School,Married,Own,5,0
+55,3370,Unemployed,302,17317,48,33.74,2,1,High School,Married,Rent,5,0
+32,6656,Employed,326,38895,12,32.88,2,0,High School,Single,Rent,6,0
+28,4943,Employed,622,11201,12,43.93,3,1,Bachelor,Single,Rent,1,0
+25,5868,Employed,596,36394,48,31.01,2,1,Bachelor,Single,Own,4,0
+29,2187,Employed,499,11287,12,32.55,3,1,High School,Married,Rent,5,0
+42,3030,Unemployed,372,39163,24,44.3,3,1,High School,Single,Own,4,0
+42,4311,Unemployed,310,15806,48,41.87,3,0,High School,Married,Own,1,0
+46,4764,Employed,410,47361,12,31.5,3,0,High School,Single,Own,1,0
+50,7648,Unemployed,438,28308,36,48.62,2,1,Bachelor,Single,Rent,1,0
+31,6194,Employed,610,15004,12,38.79,4,1,High School,Married,Rent,2,0
+24,2090,Unemployed,523,42949,36,33.37,2,1,High School,Married,Own,1,0
+59,2075,Unemployed,578,21883,36,46.79,2,1,Bachelor,Single,Rent,6,0
+43,5531,Employed,416,11111,12,47.2,3,0,High School,Married,Rent,3,0
+40,6016,Unemployed,474,20432,12,31.91,2,0,High School,Single,Rent,7,0
+42,6545,Unemployed,455,14733,24,46.35,3,0,High School,Married,Rent,3,0
+31,5171,Employed,501,11211,36,47.19,4,0,Bachelor,Married,Rent,5,0
+44,3672,Unemployed,591,31953,48,40.69,2,1,High School,Single,Own,2,0
+27,5909,Unemployed,574,48687,48,46.26,2,1,High School,Single,Rent,5,0
+53,4944,Employed,523,20369,48,40.19,2,1,High School,Single,Rent,4,0
+51,2158,Employed,310,10241,48,36.39,4,1,High School,Married,Own,1,0
+32,2389,Unemployed,607,31400,36,41.1,3,1,Bachelor,Single,Rent,2,0
+38,7277,Employed,356,45823,24,31.15,4,1,High School,Married,Own,2,0
+22,7834,Unemployed,576,23451,36,32.21,2,1,Bachelor,Married,Rent,5,0
+36,4481,Unemployed,568,27406,36,48.72,4,1,High School,Single,Rent,5,0
+59,7486,Unemployed,454,49881,48,31.03,4,1,High School,Single,Rent,3,0
+36,3808,Employed,364,36673,48,36.34,2,1,High School,Married,Rent,6,0
+50,3100,Unemployed,317,16660,24,42.45,2,1,High School,Married,Own,6,0
+55,4722,Unemployed,343,46614,48,34.45,3,1,High School,Married,Own,6,0
+46,5589,Unemployed,460,24217,12,33.71,3,1,High School,Married,Own,6,0
+57,7879,Employed,430,11069,12,40.66,3,1,High School,Single,Rent,7,0
+40,3781,Employed,393,23527,12,33.36,2,1,High School,Single,Rent,1,0
+51,3786,Unemployed,379,39812,48,33.11,3,1,Bachelor,Married,Rent,6,0
+33,2053,Employed,545,34399,36,37.6,4,0,High School,Single,Rent,5,0
+51,2722,Employed,432,19582,24,42.62,2,1,High School,Single,Own,7,0
+43,7887,Unemployed,541,26759,12,42.59,4,1,High School,Married,Rent,3,0
+40,5801,Unemployed,352,16488,24,41.44,2,1,High School,Married,Own,6,0
+42,2216,Unemployed,472,21210,12,30.96,2,0,High School,Single,Rent,6,0
+49,7201,Unemployed,518,22562,12,40.07,3,0,High School,Married,Rent,4,0
+48,2033,Unemployed,481,20750,12,33.07,2,1,High School,Single,Own,7,0
+32,7592,Unemployed,405,22438,12,38.52,3,1,High School,Single,Own,1,0
+55,5473,Unemployed,543,12537,36,39.06,2,1,High School,Single,Rent,7,0
+25,2381,Employed,489,48247,24,43.0,4,0,High School,Married,Rent,2,0
+40,7759,Unemployed,309,27940,48,35.77,4,1,Bachelor,Single,Rent,3,0
+53,6623,Unemployed,532,33581,12,39.57,4,1,Bachelor,Single,Rent,2,0
+24,5635,Employed,612,10843,36,42.97,3,1,Bachelor,Single,Rent,5,0
+51,6246,Employed,380,16154,48,38.15,2,0,High School,Single,Rent,4,0
+22,4840,Unemployed,542,32846,12,42.5,2,1,Bachelor,Married,Rent,7,0
+39,2254,Unemployed,468,19780,12,39.21,3,1,High School,Married,Rent,7,0
+55,3957,Unemployed,602,31121,12,46.98,2,1,High School,Married,Rent,6,0
+31,7980,Unemployed,335,17992,36,31.6,4,1,Bachelor,Married,Own,1,0
+58,2455,Unemployed,430,25129,24,45.78,3,1,High School,Single,Rent,2,0
+42,6398,Employed,417,19904,12,33.7,4,1,Bachelor,Single,Rent,5,0
+44,2426,Unemployed,611,11272,24,41.06,4,1,Bachelor,Married,Rent,6,0
+40,5610,Unemployed,413,37960,36,38.98,4,1,High School,Married,Rent,6,0
+53,5421,Unemployed,369,11899,48,31.0,3,1,High School,Single,Own,4,0
+34,2709,Unemployed,626,28458,12,45.09,3,0,High School,Married,Own,3,0
+25,2103,Unemployed,338,34383,12,35.47,3,0,Bachelor,Single,Own,3,0
+41,2217,Employed,341,30631,48,42.73,2,1,High School,Single,Own,5,0
+35,6955,Unemployed,614,40747,12,43.92,4,1,Bachelor,Single,Own,6,0
+32,2339,Employed,629,35868,12,45.1,4,1,High School,Single,Rent,6,0
+24,2366,Employed,522,11418,48,49.84,3,0,Bachelor,Single,Rent,6,0
+52,4768,Unemployed,364,48380,36,49.92,3,1,High School,Married,Rent,7,0
+37,7649,Unemployed,359,26398,12,39.39,3,1,High School,Married,Rent,4,0
+44,2061,Employed,409,15220,48,49.3,2,1,High School,Married,Rent,6,0
+41,7925,Employed,495,39670,48,40.65,2,1,High School,Single,Own,4,0
+26,6151,Unemployed,636,17522,24,36.35,4,1,High School,Single,Rent,1,0
+59,2861,Employed,591,47091,36,49.66,3,0,Bachelor,Single,Rent,1,0
+49,2597,Unemployed,403,43250,48,34.12,4,1,High School,Married,Rent,3,0
+22,2695,Unemployed,469,11590,24,44.93,4,0,Bachelor,Married,Rent,3,0
+40,5427,Employed,608,31846,48,39.93,3,0,High School,Married,Rent,2,0
+48,5526,Employed,577,36108,36,47.82,3,1,Bachelor,Single,Own,3,0
+49,7249,Unemployed,406,47464,48,45.57,2,1,High School,Single,Own,4,0
+24,6241,Unemployed,450,32725,24,39.29,2,1,High School,Single,Own,2,0
+37,4310,Unemployed,525,41453,36,35.49,4,1,Bachelor,Single,Rent,5,0
+56,2094,Employed,386,37491,12,40.45,2,1,High School,Married,Rent,6,0
+42,5567,Unemployed,451,12862,48,44.13,4,1,High School,Single,Rent,2,0
+40,4073,Employed,438,11681,12,32.4,3,1,High School,Single,Own,1,0
+39,7773,Unemployed,303,39267,24,34.17,4,1,Bachelor,Married,Rent,6,0
+33,6099,Unemployed,410,17128,36,32.18,2,0,High School,Single,Own,5,0
+32,6299,Unemployed,592,47869,36,35.74,3,1,High School,Single,Rent,5,0
+59,7617,Employed,372,34601,24,30.01,3,0,High School,Single,Rent,6,0
+33,5839,Employed,448,17120,48,46.04,4,1,High School,Single,Rent,3,0
+48,2704,Employed,453,41248,12,46.17,3,0,High School,Single,Rent,4,0
+44,2169,Unemployed,346,30760,36,43.33,3,1,Bachelor,Married,Rent,3,0
+37,6344,Unemployed,306,27345,24,31.62,4,1,High School,Married,Own,3,0
+43,4578,Employed,418,31910,12,38.71,2,1,High School,Married,Rent,7,0
+50,4984,Employed,326,13796,24,31.12,2,1,High School,Married,Own,1,0
+43,5607,Unemployed,395,24093,24,40.58,3,0,Bachelor,Single,Rent,7,0
+32,3442,Unemployed,370,34565,24,33.93,4,1,High School,Single,Rent,7,0
+33,2256,Unemployed,332,33432,24,32.25,3,1,High School,Single,Rent,6,0
+56,4148,Employed,649,18973,36,44.28,3,1,High School,Married,Rent,6,0
+42,4599,Unemployed,615,17198,24,31.63,4,1,Bachelor,Married,Own,7,0
+32,4364,Employed,573,36587,36,48.94,2,1,Bachelor,Single,Rent,6,0
+23,3779,Unemployed,388,47152,12,34.16,3,1,High School,Single,Rent,1,0
+55,2466,Employed,611,37130,36,31.08,4,1,Bachelor,Single,Rent,3,0
+44,6231,Employed,617,43648,12,32.12,4,1,High School,Single,Rent,3,0
+22,4143,Unemployed,461,18339,36,35.81,2,1,High School,Single,Own,1,0
+52,3980,Unemployed,361,29972,12,46.78,2,1,High School,Single,Own,7,0
+50,4912,Employed,385,30303,24,32.28,2,1,Bachelor,Single,Rent,6,0
+32,7532,Employed,569,18682,24,42.41,3,1,Bachelor,Single,Own,7,0
+34,5190,Employed,331,47463,12,45.54,3,0,High School,Single,Rent,6,0
+51,2039,Employed,317,27380,48,37.46,3,1,Bachelor,Married,Rent,5,0
+54,5258,Unemployed,424,44114,12,32.95,2,1,High School,Married,Rent,7,0
+57,7205,Unemployed,301,49084,12,48.17,4,0,High School,Married,Rent,7,0
+37,4775,Employed,327,14663,24,44.47,2,1,High School,Single,Rent,7,0
+42,4204,Employed,552,48382,24,30.93,2,0,High School,Single,Own,4,0
+43,7011,Unemployed,617,13470,48,33.32,3,1,High School,Single,Rent,4,0
+40,6319,Unemployed,410,30891,36,37.56,2,1,Bachelor,Single,Rent,5,0
+57,3543,Unemployed,412,18536,24,41.41,2,0,High School,Single,Own,7,0
+33,6944,Unemployed,307,46881,12,34.36,2,1,Bachelor,Married,Rent,3,0
+23,4158,Unemployed,394,16505,24,49.03,4,1,High School,Single,Rent,7,0
+52,5548,Employed,548,14593,24,31.21,4,1,Bachelor,Single,Rent,5,0
+56,5447,Unemployed,574,39980,48,38.26,2,1,High School,Married,Rent,1,0
+26,7389,Employed,571,17882,36,40.18,2,0,High School,Married,Own,1,0
+41,7236,Unemployed,631,43024,24,32.22,2,0,High School,Married,Own,7,0
+38,3027,Unemployed,403,45582,48,36.74,2,1,High School,Single,Rent,4,0
+47,2637,Employed,480,35635,36,42.38,4,0,High School,Married,Rent,1,0
+37,5347,Employed,591,46999,12,47.57,3,0,Bachelor,Single,Own,7,0
+33,3378,Unemployed,525,11755,36,37.63,3,1,High School,Married,Own,1,0
+27,2550,Unemployed,533,10409,12,46.78,4,1,Bachelor,Single,Own,2,0
+45,3005,Unemployed,547,40620,36,47.36,4,1,High School,Married,Rent,7,0
+41,7393,Employed,472,37064,24,34.89,4,0,High School,Single,Own,2,0
+50,4817,Unemployed,541,38952,24,32.9,4,1,High School,Single,Rent,1,0
+45,4460,Unemployed,457,24250,36,37.39,3,1,High School,Single,Rent,2,0
+58,3026,Unemployed,515,28744,12,41.67,2,0,High School,Married,Own,4,0
+33,2023,Unemployed,537,43963,12,42.72,3,1,High School,Married,Own,1,0
+27,6670,Unemployed,522,20630,12,46.44,4,0,High School,Married,Own,3,0
+29,6374,Unemployed,485,13387,36,39.09,2,0,Bachelor,Married,Own,1,0
+29,5329,Employed,472,15214,12,33.37,4,1,High School,Married,Rent,1,0
+58,3828,Employed,522,45193,12,36.04,4,0,Bachelor,Married,Rent,4,0
+50,5278,Unemployed,555,11964,36,36.38,3,0,Bachelor,Single,Rent,7,0
+59,5562,Unemployed,369,23652,24,37.17,3,1,High School,Married,Rent,7,0
+46,6356,Unemployed,499,18989,12,45.4,2,1,Bachelor,Single,Rent,4,0
+23,3676,Employed,513,19528,24,46.73,2,1,High School,Single,Rent,3,0
+47,7676,Employed,515,34028,48,35.13,2,1,Bachelor,Single,Own,3,0
+41,6504,Unemployed,401,24374,36,36.69,4,0,High School,Married,Own,7,0
+32,4912,Unemployed,352,23154,36,49.18,4,1,High School,Single,Own,4,0
+42,4848,Employed,378,18834,36,35.01,2,0,High School,Single,Own,1,0
+36,5699,Employed,597,37767,12,39.06,3,0,High School,Single,Rent,7,0
+55,2680,Unemployed,549,42456,24,35.34,4,1,Bachelor,Married,Rent,3,0
+27,3877,Unemployed,348,38159,24,47.65,2,0,High School,Married,Own,3,0
+51,2824,Unemployed,339,49487,24,30.38,4,0,Bachelor,Single,Rent,2,0
+50,4324,Unemployed,346,20202,36,32.41,2,0,Bachelor,Married,Own,2,0
+49,4993,Employed,640,29687,12,50.0,4,1,High School,Single,Own,1,0
+25,7939,Employed,319,20533,48,42.4,4,0,High School,Married,Own,3,0
+50,4806,Unemployed,341,46043,36,39.11,3,1,High School,Married,Rent,6,0
+47,4579,Employed,481,36303,12,37.42,2,0,High School,Married,Own,7,0
+54,7815,Employed,527,19436,12,48.5,4,1,High School,Single,Own,3,0
+39,6409,Employed,620,38497,24,31.62,3,1,High School,Married,Own,7,0
+43,4387,Unemployed,326,33997,48,41.11,3,0,High School,Single,Own,5,0
+33,7736,Employed,564,24276,24,47.43,4,0,High School,Single,Rent,4,0
+43,6201,Unemployed,467,29034,36,48.66,3,1,High School,Single,Own,2,0
+44,5311,Employed,445,21709,24,43.35,4,0,High School,Married,Rent,2,0
+57,6482,Employed,628,37591,48,35.14,3,1,High School,Single,Rent,3,0
+56,2036,Employed,415,30056,48,38.49,4,1,High School,Married,Rent,6,0
+28,4823,Employed,604,47496,36,43.61,3,1,High School,Single,Own,3,0
+31,3797,Employed,481,10341,36,48.61,4,0,Bachelor,Married,Own,3,0
+31,2645,Employed,571,43982,36,30.3,4,1,High School,Married,Own,7,0
+40,3209,Unemployed,478,10724,12,38.68,4,1,Bachelor,Married,Rent,3,0
+56,3797,Employed,370,49734,12,41.02,3,1,Bachelor,Married,Own,7,0
+34,2598,Unemployed,493,46796,36,48.87,2,1,High School,Married,Own,7,0
+45,6762,Unemployed,512,44449,12,47.33,2,1,High School,Married,Own,1,0
+31,5764,Employed,618,25196,36,49.47,3,0,High School,Single,Rent,1,0
+51,7547,Employed,428,36369,48,49.99,3,1,Bachelor,Married,Own,2,0
+57,5263,Employed,390,18224,24,43.28,2,1,Bachelor,Single,Rent,7,0
+39,7784,Unemployed,471,11240,36,36.01,2,1,High School,Single,Rent,3,0
+36,6558,Employed,320,18767,12,45.55,4,1,Bachelor,Married,Rent,6,0
+34,2015,Unemployed,450,19574,48,44.16,3,0,High School,Single,Rent,1,0
+55,5381,Unemployed,319,33362,24,32.58,3,1,High School,Single,Rent,6,0
+28,2519,Employed,505,46311,24,39.57,4,1,Bachelor,Married,Rent,6,0
+53,5973,Employed,526,36917,24,47.82,3,0,High School,Single,Own,2,0
+37,6359,Employed,306,43946,12,37.84,3,1,High School,Single,Rent,7,0
+56,7291,Employed,583,11309,48,48.66,2,1,High School,Married,Rent,2,0
+26,4927,Employed,646,36252,36,46.36,4,1,High School,Married,Rent,1,0
+37,4305,Employed,543,38635,48,31.26,4,1,High School,Single,Rent,6,0
+53,4502,Unemployed,453,17122,24,30.22,3,1,High School,Single,Rent,4,0
+24,3985,Unemployed,382,30035,48,40.99,3,0,Bachelor,Single,Rent,7,0
+27,5111,Unemployed,607,48265,36,45.45,4,0,Bachelor,Single,Own,7,0
+35,3592,Unemployed,443,18036,24,42.49,4,1,Bachelor,Single,Rent,6,0
+29,4221,Employed,427,33935,12,33.02,4,1,High School,Single,Own,7,0
+40,3302,Unemployed,547,15592,48,32.7,3,1,High School,Single,Own,5,0
+59,6455,Employed,539,16012,24,35.88,4,1,High School,Married,Rent,1,0
+23,4628,Unemployed,302,36452,24,40.45,3,1,High School,Married,Rent,7,0
+28,5226,Unemployed,433,47832,48,45.07,3,1,Bachelor,Single,Own,4,0
+48,6314,Unemployed,537,24635,24,44.83,3,1,High School,Single,Own,4,0
+48,7475,Employed,524,28376,12,37.08,4,1,Bachelor,Single,Own,6,0
+28,4314,Unemployed,377,21431,48,47.7,4,0,High School,Single,Rent,6,0
+27,6951,Unemployed,476,42305,48,37.88,3,0,Bachelor,Married,Rent,3,0
+33,4027,Unemployed,558,47663,24,41.71,2,1,Bachelor,Single,Own,7,0
+38,3428,Employed,627,32517,24,34.56,3,1,High School,Single,Own,7,0
+29,4883,Unemployed,431,32444,12,34.97,3,1,High School,Married,Rent,5,0
+55,6483,Unemployed,596,11342,24,35.9,2,1,High School,Single,Rent,4,0
+51,2047,Employed,336,18212,12,45.98,4,1,High School,Single,Rent,3,0
+23,5472,Unemployed,563,36416,48,32.09,4,1,High School,Single,Own,7,0
+44,3130,Unemployed,340,34351,24,41.06,4,0,Bachelor,Single,Rent,6,0
+46,3538,Unemployed,645,10129,24,48.04,3,1,Bachelor,Single,Rent,2,0
+48,2475,Unemployed,612,27090,36,41.13,4,1,High School,Single,Own,5,0
+42,5793,Employed,357,45143,36,38.34,3,1,High School,Single,Rent,5,0
+50,3023,Employed,579,24446,48,42.38,2,1,High School,Single,Own,5,0
+35,5901,Unemployed,572,14534,48,48.75,3,1,High School,Married,Rent,2,0
+34,6761,Unemployed,343,29139,36,35.8,3,0,Bachelor,Single,Own,5,0
+34,5247,Employed,319,38877,24,46.38,3,1,High School,Single,Rent,4,0
+37,4206,Employed,402,26591,12,36.03,3,1,High School,Single,Rent,7,0
+52,3932,Unemployed,417,47995,48,45.01,4,1,High School,Single,Rent,1,0
+49,2834,Employed,408,12031,36,33.46,2,1,High School,Single,Rent,7,0
+44,7499,Unemployed,378,34427,24,33.47,2,1,Bachelor,Single,Rent,4,0
+31,3408,Employed,631,10937,12,43.28,2,0,High School,Single,Rent,5,0
+35,7188,Employed,534,46038,48,48.33,4,1,High School,Single,Rent,7,0
+26,4158,Unemployed,536,10449,36,34.6,2,1,Bachelor,Single,Rent,3,0
+39,5219,Unemployed,449,32429,12,38.23,2,1,High School,Single,Own,1,0
+52,6127,Employed,333,32442,36,33.1,2,1,High School,Married,Own,5,0
+34,3617,Unemployed,544,43022,36,34.0,2,1,High School,Single,Rent,7,0
+46,2469,Unemployed,626,38363,36,33.25,3,1,High School,Married,Own,2,0
+55,5761,Employed,394,46494,48,46.79,3,0,High School,Married,Rent,7,0
+43,5037,Unemployed,617,19311,24,40.31,4,0,High School,Single,Own,4,0
+48,5460,Employed,523,17087,12,33.82,3,1,High School,Married,Rent,2,0
+46,2508,Employed,420,11880,48,31.92,2,0,High School,Single,Own,5,0
+29,4193,Employed,629,28294,24,47.92,3,1,Bachelor,Single,Own,5,0
+23,2652,Employed,308,32328,36,43.51,4,1,High School,Married,Rent,4,0
+39,2789,Unemployed,619,37495,36,49.35,2,1,High School,Married,Rent,2,0
+34,3479,Unemployed,539,11562,36,39.32,3,0,High School,Married,Own,2,0
+50,4463,Unemployed,519,15006,36,38.11,4,1,High School,Married,Rent,4,0
+48,7791,Unemployed,428,33980,48,37.11,4,1,Bachelor,Single,Rent,7,0
+36,7762,Unemployed,524,25450,12,37.38,3,0,High School,Single,Own,4,0
+39,6377,Unemployed,479,18954,24,48.25,3,1,High School,Single,Rent,3,0
+44,7424,Employed,493,34537,36,39.5,2,1,High School,Married,Rent,2,0
+23,4552,Employed,390,44999,48,32.89,2,1,High School,Married,Own,7,0
+54,6930,Employed,580,14008,24,41.23,4,1,High School,Married,Rent,3,0
+35,5346,Unemployed,561,15628,48,30.1,3,1,High School,Single,Rent,1,0
+38,5860,Employed,607,15707,48,45.49,4,1,Bachelor,Single,Own,1,0
+49,4298,Unemployed,581,40381,48,42.28,2,0,High School,Single,Rent,2,0
+29,4078,Unemployed,507,11834,36,34.65,2,1,High School,Married,Rent,1,0
+44,5319,Employed,568,49954,36,44.14,4,1,High School,Married,Own,3,0
+51,7770,Employed,548,17987,36,45.14,3,1,High School,Married,Rent,6,0
+45,3779,Unemployed,527,25728,24,30.53,2,1,High School,Married,Rent,2,0
+26,2727,Unemployed,589,38328,36,49.46,2,0,High School,Single,Own,7,0
+23,5515,Unemployed,406,17402,36,48.5,4,0,High School,Single,Rent,1,0
+52,4471,Employed,586,49836,36,30.24,4,1,High School,Single,Rent,6,0
+35,7598,Unemployed,317,12930,48,35.12,4,1,High School,Single,Rent,1,0
+22,6819,Unemployed,446,48693,48,34.85,2,1,High School,Single,Rent,5,0
+53,5506,Unemployed,620,10494,36,44.15,2,1,High School,Single,Rent,2,0
+56,5633,Employed,409,28117,12,30.87,2,0,High School,Married,Rent,5,0
+49,6861,Employed,592,43978,24,47.7,4,0,High School,Married,Own,6,0
+50,3833,Employed,324,41503,36,36.72,4,1,Bachelor,Single,Rent,1,0
+44,5463,Employed,361,23796,36,44.13,4,1,Bachelor,Single,Rent,3,0
+28,2024,Unemployed,359,34949,12,46.79,2,1,Bachelor,Married,Rent,3,0
+41,7275,Unemployed,603,44439,36,49.15,4,1,High School,Single,Rent,4,0
+30,5267,Unemployed,588,25272,24,31.86,3,0,High School,Single,Own,4,0
+38,6215,Unemployed,452,36265,12,34.1,2,1,High School,Married,Rent,2,0
+55,4186,Unemployed,605,46720,36,48.21,4,0,Bachelor,Single,Own,7,0
+58,6726,Employed,301,11028,24,31.48,3,0,Bachelor,Married,Rent,7,0
+38,7992,Unemployed,454,20179,36,45.69,3,1,High School,Single,Own,7,0
+36,2394,Employed,499,31356,36,42.71,4,0,High School,Single,Own,6,0
+25,3001,Employed,454,44382,12,49.22,3,0,Bachelor,Single,Rent,2,0
+59,7767,Unemployed,627,23347,48,43.5,2,1,High School,Single,Rent,7,0
+43,2948,Unemployed,481,36618,12,44.04,2,1,High School,Married,Rent,4,0
+23,5700,Unemployed,421,46179,48,38.67,2,1,High School,Single,Own,1,0
+36,2801,Employed,442,42554,48,46.22,2,0,Bachelor,Single,Rent,3,0
+43,3345,Employed,372,11668,24,38.16,2,0,High School,Single,Rent,1,0
+44,5016,Unemployed,435,30806,36,42.65,2,1,Bachelor,Married,Rent,1,0
+45,5202,Employed,429,27134,48,47.36,4,1,Bachelor,Single,Rent,2,0
+29,7396,Unemployed,529,23626,24,46.34,4,1,High School,Single,Rent,6,0
+47,2722,Unemployed,316,47310,48,32.17,3,0,High School,Single,Own,2,0
+41,3640,Employed,413,12730,24,49.9,4,1,High School,Single,Rent,3,0
+48,6764,Employed,420,19149,12,48.73,2,0,High School,Single,Rent,2,0
+54,6899,Unemployed,339,23846,12,46.82,3,1,High School,Married,Own,7,0
+42,6754,Employed,521,21443,48,47.9,4,1,High School,Married,Rent,3,0
+45,2856,Employed,349,34957,36,30.99,3,0,High School,Single,Rent,4,0
+35,3496,Employed,575,41592,36,34.78,3,1,Bachelor,Single,Rent,7,0
+58,2121,Unemployed,501,22550,24,40.21,4,0,High School,Married,Own,3,0
+24,4289,Employed,310,46827,24,30.18,2,1,High School,Single,Own,1,0
+24,3604,Unemployed,323,18891,48,49.57,2,0,Bachelor,Married,Own,5,0
+39,2963,Unemployed,326,16732,36,37.28,2,0,High School,Married,Rent,2,0
+56,5905,Unemployed,562,13572,36,44.06,3,1,High School,Single,Own,1,0
+34,7068,Employed,509,12936,48,49.89,4,0,High School,Single,Rent,6,0
+40,5577,Unemployed,416,22755,12,31.69,3,0,High School,Single,Rent,2,0
+55,7367,Employed,528,27202,48,39.25,4,1,High School,Single,Rent,6,0
+32,2778,Employed,397,29878,24,32.6,3,1,Bachelor,Single,Rent,2,0
+24,6066,Unemployed,413,13949,24,40.02,4,1,High School,Married,Rent,1,0
+52,3030,Unemployed,519,27439,36,46.6,2,1,High School,Married,Own,7,0
+30,4341,Unemployed,633,29913,24,47.29,4,1,Bachelor,Single,Own,2,0
+59,5542,Employed,525,26935,36,35.9,2,1,High School,Single,Rent,6,0
+36,5351,Unemployed,615,38978,36,36.11,3,0,High School,Married,Own,6,0
+55,5446,Unemployed,619,21490,12,34.91,2,0,High School,Single,Own,7,0
+32,3877,Unemployed,380,14583,48,39.84,2,1,High School,Single,Rent,4,0
+39,5343,Unemployed,497,32258,24,32.61,2,1,High School,Single,Rent,5,0
+48,6494,Employed,430,41098,24,45.87,2,1,Bachelor,Married,Own,6,0
+52,2852,Unemployed,459,17178,36,39.74,4,0,High School,Married,Own,2,0
+45,4068,Employed,396,34123,24,38.38,4,1,Bachelor,Single,Own,1,0
+42,6120,Employed,401,26898,48,42.81,2,1,High School,Married,Rent,4,0
+43,5098,Employed,449,48660,36,40.81,3,1,Bachelor,Married,Own,1,0
+59,2803,Employed,424,27277,12,32.47,3,1,High School,Single,Rent,3,0
+24,2499,Employed,458,42712,24,49.25,3,1,High School,Single,Rent,5,0
+56,4212,Employed,556,48642,36,48.62,4,1,High School,Married,Own,6,0
+42,7764,Unemployed,467,16192,36,48.92,2,0,High School,Single,Rent,1,0
+41,4803,Unemployed,500,17977,48,46.7,4,0,High School,Single,Rent,3,0
+24,2124,Unemployed,525,35383,24,37.18,4,0,High School,Single,Rent,3,0
+27,7007,Unemployed,640,46251,12,39.85,3,0,Bachelor,Married,Own,3,0
+41,4034,Unemployed,398,19039,36,47.32,3,1,High School,Single,Own,6,0
+36,4361,Employed,575,31867,24,43.93,2,1,High School,Married,Own,5,0
+30,3612,Unemployed,486,42627,48,39.07,3,1,High School,Single,Rent,3,0
+28,4044,Employed,449,10853,12,36.02,4,0,High School,Single,Rent,5,0
+54,7597,Unemployed,566,15137,48,39.7,4,1,High School,Single,Own,3,0
+25,4306,Unemployed,627,27271,24,36.84,4,1,High School,Single,Rent,3,0
+27,3541,Employed,480,28410,48,44.55,4,1,High School,Single,Own,6,0
+23,7535,Unemployed,331,12962,12,48.25,3,1,Bachelor,Married,Own,1,0
+22,6462,Unemployed,368,35100,12,36.6,3,1,High School,Single,Own,4,0
+50,6060,Unemployed,604,20678,12,45.4,4,1,High School,Single,Rent,3,0
+29,7066,Employed,576,47942,24,32.81,3,0,High School,Single,Own,3,0
+27,6593,Employed,415,32665,48,47.6,2,0,High School,Single,Own,4,0
+38,7273,Unemployed,305,43075,24,34.35,2,1,High School,Single,Rent,5,0
+52,5805,Unemployed,631,23612,24,44.79,3,1,High School,Single,Rent,1,0
+53,5117,Employed,561,22179,24,47.86,2,1,High School,Married,Rent,3,0
+55,3064,Unemployed,357,24700,24,40.2,4,1,Bachelor,Married,Own,7,0
+53,4778,Unemployed,424,16894,12,30.32,4,1,High School,Married,Own,1,0
+48,5138,Unemployed,600,22569,36,48.19,2,1,High School,Single,Rent,6,0
+42,4608,Unemployed,412,42049,36,40.22,2,0,Bachelor,Married,Rent,4,0
+36,6532,Employed,403,49380,48,39.02,3,0,High School,Single,Own,2,0
+39,7248,Unemployed,427,33484,24,30.32,4,1,High School,Married,Own,4,0
+29,7712,Employed,456,33503,24,32.78,4,0,High School,Married,Rent,2,0
+58,7070,Unemployed,514,10698,48,35.77,2,1,High School,Single,Rent,1,0
+51,5591,Employed,509,14778,12,43.09,4,1,High School,Single,Rent,6,0
+43,7321,Employed,351,29775,36,41.82,4,1,Bachelor,Single,Own,6,0
+59,3710,Unemployed,425,27817,24,45.0,2,0,High School,Married,Rent,6,0
+54,5353,Unemployed,559,24462,12,39.24,3,1,High School,Single,Own,1,0
+40,6100,Unemployed,544,15271,24,48.36,2,1,High School,Single,Rent,7,0
+43,3912,Unemployed,510,38876,48,38.28,3,1,High School,Married,Own,4,0
+56,3080,Unemployed,302,28509,12,30.69,4,1,High School,Married,Rent,3,0
+41,3163,Unemployed,382,20001,48,33.2,3,1,High School,Single,Rent,3,0
+24,2298,Unemployed,586,40491,12,49.04,2,1,High School,Married,Own,3,0
+32,6868,Employed,613,39753,12,43.49,2,0,High School,Married,Rent,2,0
+37,6030,Unemployed,492,49751,48,45.15,3,1,High School,Married,Own,5,0
+22,7136,Employed,406,34813,48,46.95,4,0,Bachelor,Married,Own,6,0
+56,7247,Unemployed,590,45130,24,41.26,4,1,Bachelor,Single,Rent,4,0
+27,7765,Unemployed,308,35604,12,47.7,4,1,Bachelor,Single,Rent,1,0
+42,2770,Employed,467,17614,48,40.45,3,1,Bachelor,Married,Rent,5,0
+26,6127,Employed,601,21752,48,41.62,3,0,High School,Married,Own,4,0
+53,7694,Unemployed,499,42902,48,46.74,2,1,Bachelor,Single,Rent,1,0
+42,7339,Unemployed,591,37819,36,37.39,3,1,Bachelor,Single,Rent,7,0
+28,5875,Unemployed,626,19194,12,44.67,2,1,High School,Married,Own,6,0
+56,7225,Employed,408,24549,12,47.67,4,1,High School,Married,Own,7,0
+46,5942,Employed,495,15586,24,30.85,3,1,High School,Single,Rent,2,0
+33,6115,Unemployed,589,29608,24,43.89,4,0,High School,Married,Rent,6,0
+45,4156,Unemployed,370,36008,36,40.58,4,0,Bachelor,Single,Rent,5,0
+52,5310,Unemployed,387,41930,12,36.67,3,0,High School,Married,Own,7,0
+31,5751,Unemployed,622,48678,48,49.13,2,1,Bachelor,Single,Rent,7,0
+42,6701,Unemployed,435,33297,24,37.01,4,0,High School,Single,Own,2,0
+26,4493,Employed,471,24566,24,34.13,2,1,Bachelor,Married,Own,3,0
+38,6154,Employed,418,22709,24,37.86,2,0,High School,Married,Own,3,0
+57,2707,Unemployed,369,23769,12,33.45,2,1,Bachelor,Single,Rent,4,0
+58,3525,Unemployed,388,14124,12,44.07,2,1,High School,Single,Rent,4,0
+24,4916,Employed,464,45816,24,35.4,2,0,High School,Single,Own,7,0
+47,3931,Unemployed,574,41083,36,32.0,3,1,High School,Single,Own,6,0
+37,6459,Unemployed,612,14565,24,39.59,4,1,High School,Married,Rent,6,0
+23,3130,Unemployed,370,29962,36,46.69,3,0,High School,Single,Own,1,0
+32,6903,Unemployed,473,16836,24,44.5,4,0,High School,Single,Rent,3,0
+45,5547,Unemployed,544,35897,36,35.07,4,0,High School,Married,Rent,3,0
+39,7235,Unemployed,567,46652,48,43.85,4,0,Bachelor,Single,Rent,1,0
+59,4564,Employed,606,31702,36,45.11,3,1,High School,Single,Rent,7,0
+46,7151,Employed,334,36397,12,32.0,2,1,High School,Married,Own,1,0
+30,3805,Unemployed,422,46635,36,47.87,4,1,High School,Single,Rent,5,0
+39,2009,Unemployed,418,11363,24,34.54,2,1,High School,Single,Own,5,0
+38,2569,Unemployed,434,11033,24,47.39,4,1,High School,Single,Rent,2,0
+35,5155,Employed,631,23649,12,31.07,3,0,High School,Single,Rent,5,0
+51,4807,Unemployed,321,23336,12,30.56,4,1,High School,Single,Rent,6,0
+51,5694,Unemployed,647,45225,48,41.1,2,0,High School,Married,Own,5,0
+28,2296,Unemployed,448,43126,36,32.13,4,1,High School,Single,Rent,5,0
+48,4408,Unemployed,579,18790,24,31.29,4,1,High School,Single,Own,7,0
+48,4611,Unemployed,513,11700,36,42.76,2,1,High School,Single,Own,4,0
+53,4655,Unemployed,512,41731,36,47.21,2,1,High School,Single,Rent,1,0
+32,6376,Unemployed,584,43124,12,43.63,2,0,High School,Married,Rent,6,0
+57,2122,Employed,587,34755,12,35.3,3,0,Bachelor,Married,Rent,6,0
+33,4983,Employed,351,42952,36,35.47,3,0,High School,Single,Own,1,0
+50,6796,Employed,578,37067,12,37.45,4,1,High School,Married,Rent,2,0
+23,6628,Unemployed,324,44933,24,43.55,3,1,High School,Single,Own,7,0
+47,6072,Employed,421,35759,48,48.3,3,1,High School,Married,Own,1,0
+22,4919,Employed,510,32377,48,31.35,3,0,Bachelor,Married,Own,2,0
+27,2013,Unemployed,524,43575,12,30.81,4,1,High School,Single,Rent,6,0
+27,7507,Unemployed,560,29740,48,38.59,2,1,High School,Single,Rent,2,0
+55,6591,Employed,560,35627,36,40.77,2,1,Bachelor,Single,Own,3,0
+43,2925,Employed,349,30062,12,48.93,4,1,High School,Single,Rent,7,0
+27,4862,Employed,636,47036,12,33.87,3,1,High School,Married,Own,4,0
+25,7600,Unemployed,640,18645,36,41.3,3,1,High School,Single,Own,2,0
+45,6149,Unemployed,426,25264,36,49.49,3,1,High School,Single,Rent,1,0
+27,4587,Employed,396,29286,36,39.82,4,1,High School,Single,Own,1,0
+54,7740,Unemployed,348,32117,36,46.77,3,1,Bachelor,Single,Rent,7,0
+26,7175,Employed,385,31644,24,45.11,3,0,High School,Married,Own,1,0
+42,7205,Unemployed,538,36789,24,47.6,3,1,High School,Single,Rent,4,0
+27,6800,Unemployed,533,34951,12,45.55,4,1,High School,Married,Rent,6,0
+52,4604,Employed,392,20535,36,36.57,2,1,High School,Single,Rent,2,0
+37,2160,Employed,640,34091,24,30.11,4,1,High School,Married,Rent,7,0
+32,2183,Employed,476,33576,48,49.62,2,0,High School,Married,Rent,2,0
+41,4674,Unemployed,345,49395,12,37.04,3,1,High School,Single,Own,2,0
+42,7962,Unemployed,336,20487,48,38.97,3,0,High School,Single,Rent,7,0
+41,2299,Employed,354,16880,48,48.99,2,1,High School,Single,Rent,3,0
+24,4447,Unemployed,439,21165,24,35.56,2,0,Bachelor,Married,Rent,1,0
+31,3485,Unemployed,546,36761,12,48.24,2,1,High School,Single,Rent,1,0
+58,5429,Unemployed,611,34155,12,40.81,2,1,High School,Single,Own,7,0
+52,7842,Unemployed,636,12030,48,33.4,2,1,High School,Single,Rent,2,0
+36,2631,Unemployed,514,28586,12,48.03,4,0,High School,Single,Rent,6,0
+38,2457,Unemployed,369,22857,36,40.71,3,0,High School,Married,Own,1,0
+52,4892,Unemployed,421,22510,48,39.25,4,0,High School,Single,Rent,7,0
+30,2504,Employed,433,24534,12,41.6,4,1,High School,Married,Rent,7,0
+44,5125,Unemployed,349,28107,36,49.7,2,0,High School,Single,Rent,7,0
+57,3935,Employed,525,28661,24,47.32,4,1,High School,Single,Rent,1,0
+52,7055,Unemployed,484,29998,48,46.47,2,1,High School,Single,Rent,3,0
+46,2962,Employed,532,22220,12,46.83,2,1,Bachelor,Single,Own,2,0
+22,3525,Employed,387,27107,12,37.51,4,1,Bachelor,Single,Rent,4,0
+28,4895,Unemployed,505,15821,36,31.66,3,1,High School,Single,Rent,7,0
+53,7324,Unemployed,585,24730,24,32.95,4,1,High School,Married,Rent,5,0
+33,6122,Unemployed,459,34228,48,34.12,3,1,Bachelor,Single,Rent,4,0
+41,4673,Unemployed,477,48703,36,39.14,4,1,Bachelor,Single,Own,7,0
+24,6679,Employed,375,38992,12,35.92,3,1,High School,Single,Rent,7,0
+46,2410,Unemployed,345,40381,48,45.78,3,1,High School,Single,Rent,4,0
